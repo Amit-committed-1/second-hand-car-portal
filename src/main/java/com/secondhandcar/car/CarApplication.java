@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CarApplication {
 
 	public static void main(String[] args) {
+                int x = 1000;
 		SpringApplication.run(CarApplication.class, args);
 	}
 
