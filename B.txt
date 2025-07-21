@@ -1,4 +1,6 @@
-
+Core java
+jsp and servlet
+sql
 Development:
 ------------
 Pankaj Sir Academy
