@@ -8,8 +8,11 @@ public class CarApplication {
 
 	public static void main(String[] args) {
                 int x = 1000;
+		float y = 10.45f;
+		boolean b = true;
                 String s1 = "Amit";
                 long y = 2147463647;
+
 		SpringApplication.run(CarApplication.class, args);
 	}
 
