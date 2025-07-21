@@ -10,3 +10,8 @@ Code is written and i got solution that is actually helpus to find current locat
 Based on Latitude and longitude we will get actual location by using google geolocation api
 
 
+Microservices
+Devops
+Testing
+75% Done of implementation
+
